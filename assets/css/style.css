@@ -75,6 +75,10 @@ nav a:hover {
     margin: 10px;
 }
 
+.current {
+    background: rgba(85, 8, 116, 0.3)
+}
+
 table {
     border: 3px solid black;
     width: 100%;
